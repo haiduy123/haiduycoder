@@ -1,0 +1,1 @@
+<button onclick="window.location.href=''https://haiduy123.github.io/hocLamWeb/">Continue</button>
